@@ -1,5 +1,5 @@
 # 💫 About Me:
- ✏️ I'm currently working on my own projects 💻<br> ✏️ I'm looking to collaborate with others developers ⭐<br> ✏️ I'm currently learning web development at Coderhouse 🚀<br> ✏️ Ask me about web apps and agile scrum methodology 🤓<br> ✏️ I'm looking for a job as a Front-end Developer 🤝🏻
+ ✏️ I'm currently working on my own projects 💻<br> ✏️ I'm looking to collaborate with others developers ⭐<br> ✏️ I'm currently learning web development at Coderhouse 🚀<br> ✏️ Ask me about web apps and agile scrum methodology 🤓<br> ✏️ I'm looking for a job as a Full Stack Web Developer 🤝🏻
 
 
 ## 🌐 Socials:
