@@ -36,7 +36,7 @@ I'm passionate about everything related to technology 🤖 and love turning idea
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -48,15 +48,9 @@ I'm passionate about everything related to technology 🤖 and love turning idea
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
