@@ -1,19 +1,17 @@
 # Welcome, I'm Alejandro Nishiky 👋
 
 ### Full Stack Web Developer
-### Web Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nishikyr&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
 
 ## About Me
 
-I'm passionate about everything related to technology 🤖 and love turning ideas into web experiences 👨‍💻. Web development isn't just a skill for me — it's something I genuinely enjoy.
+I’ve always been curious about how things work especially when it comes to tech 🤖. Over time, that curiosity turned into a love for building things on the web 👨‍💻. I do enjoy solving problems and seeing ideas come to life (Si lo puedes imaginar lo puedes programar - Alejandro Taboada)
 
-🌱 Constantly working on becoming a better version of myself.  
-⌛ Big fan of personal growth and productivity hacks.  
+🌱 Constantly working on becoming a better version of myself.
+⌛ Big fan of personal growth and productivity hacks.
 🤝 I thrive in collaborative environments and enjoy building with others.
 
-###
 
 ## Technologies:
 
@@ -73,8 +71,7 @@ I'm passionate about everything related to technology 🤖 and love turning idea
 
 [![X](https://img.shields.io/badge/X-@nishikyr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/nishikyr)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlejandroNishiky-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/anishikyr/)
 
 
 ## Contact:
