@@ -74,7 +74,7 @@ I’ve always been curious about how things work especially when it comes to tec
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-## Links:
+## Let's connect:
 
 [![X](https://img.shields.io/badge/X-@nishikyr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/nishikyr)
 
