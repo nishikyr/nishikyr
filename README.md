@@ -8,8 +8,11 @@
 
 I’ve always been curious about how things work especially when it comes to tech 🤖. Over time, that curiosity turned into a love for building things on the web 👨‍💻. I do enjoy solving problems and seeing ideas come to life (Si lo puedes imaginar lo puedes programar - Alejandro Taboada)
 
+<br />
 🌱 Constantly working on becoming a better version of myself.
+<br />
 ⌛ Big fan of personal growth and productivity hacks.
+<br />
 🤝 I thrive in collaborative environments and enjoy building with others.
 
 
