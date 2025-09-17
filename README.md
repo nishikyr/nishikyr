@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Alejo Nishiky</h1>
+<h1 align="center">Hi 👋, I'm Alejo Nishiky R'</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikyr&label=Profile%20views&color=0e75b6&style=flat" alt="nishikyr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishikyr&theme=" alt="nishikyr" /></a> </p>
 
-- 🔭 I’m currently working on **my Startup**
-- 👯 I’m looking to collaborate on **Different projects which impact to improve tech and help people**
-- 🤝 I’m looking for help with **some complex projects**
-- 🌱 I’m currently learning **Python**
-- 💬 Ask me about **React, Angular and SpringBoot**
+- 🔭 I’m currently working on **growing and shaping my startup**
+- 👯 I’m looking to collaborate on **building solutions that make a difference in people’s lives**
+- 🤝 I’m looking for help with **solving tough problems and bringing big ideas to life**
+- 🌱 I’m currently learning **new technologies to sharpen my problem-solving skills**
+- 💬 Ask me about **innovative ideas, tech trends, and creative solutions**
 - 📫 How to reach me **alejo.nishiky@gmail.com**
-- 👨‍💻 All of my projects are available at **Github**
 - ⚡ Fun fact **I'm into music and tennis**
 
 <div> <a href="https://twitter.com/nishikyr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -67,7 +66,5 @@
 <a href="https://github.com/nishikyr">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishikyr&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishikyr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishikyr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishikyr&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishikyr&theme=2077" height="180em" />
 </div>
