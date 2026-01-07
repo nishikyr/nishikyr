@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Alejo Nishiky R' </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikyr&label=Profile%20views&color=0e75b6&style=flat" alt="nishikyr" /> </p>
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on **growing and shaping my startup**<br>👯 I’m looking to collaborate on **building solutions that make a difference in people’s lives**<br>🤝 I’m looking for help with **solving tough problems and bringing big ideas to life**<br>🌱 I’m currently learning **new technologies to sharpen my problem-solving skills**<br>💬 Ask me about **innovative ideas, tech trends, and creative solutions**<br>📫 How to reach me **alejo.nishiky@gmail.com**<br>⚡ Fun fact **I'm japanese-peruvian who speaks French**
 
 
